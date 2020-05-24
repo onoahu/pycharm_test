@@ -7,3 +7,11 @@ if __name__ == "__main__":
     ok, s =a('crapp')
     print(ok)
     print(s)
+
+#
+#
+#
+#
+#
+#
+#
